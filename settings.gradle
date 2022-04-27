@@ -1,5 +1,0 @@
-rootProject.name = 'flash'
-
-include ':application-api',
-        ':flash-boot',
-        ':flash-core'

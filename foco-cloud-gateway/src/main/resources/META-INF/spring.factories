@@ -1,0 +1,3 @@
+org.springframework.boot.autoconfigure.EnableAutoConfiguration=\
+com.foco.gateway.bootstrap.GatewayBootstrapAutoConfiguration,\
+com.foco.gateway.autoconfigure.CustomErrorWebFluxAutoConfiguration

@@ -1,0 +1,3 @@
+org.springframework.boot.autoconfigure.EnableAutoConfiguration=\
+  com.foco.web.gray.autoconfigure.GrayLoadBalancerConfiguration,\
+  com.foco.web.gray.autoconfigure.MqConfiguration

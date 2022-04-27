@@ -1,0 +1,4 @@
+org.springframework.boot.autoconfigure.EnableAutoConfiguration=\
+  com.foco.cloud.loadbalancer.group.autoconfigure.FeignInjectAutoConfiguration
+
+
